@@ -40,7 +40,7 @@ export function ServicesGrid() {
           <p className="text-lg text-slate-500 font-medium">
             Beyond our flagship contribution schemes, we provide tailored
             capital structures and advisory services for businesses, MFIs, and
-            institutions[cite: 4].
+            institutions.
           </p>
         </motion.div>
 

@@ -5,9 +5,15 @@ import Image from "next/image";
 import { siteConfig } from "@/config/site";
 import { MapPin, Mail, Phone, ShieldCheck } from "lucide-react";
 import { FaInstagram, FaTiktok, FaFacebookF } from "react-icons/fa6";
+import { useEffect, useState } from "react";
 
 export function Footer() {
-  const currentYear = new Date().getFullYear();
+  const [currentYear, setCurrentYear] = useState<number>(2024);
+
+  useEffect(() => {
+    // eslint-disable-next-line react-hooks/set-state-in-effect
+    setCurrentYear(new Date().getFullYear());
+  }, []);
 
   return (
     <footer className="bg-[#263b4d] pt-20 pb-10 border-t border-[#263b4d] mt-auto">

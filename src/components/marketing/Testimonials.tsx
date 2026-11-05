@@ -36,7 +36,7 @@ export function Testimonials() {
           </h2>
           <p className="text-lg text-slate-500 font-medium">
             Real experiences from members who have used our structured savings
-            and tailored capital to achieve their financial goals[cite: 4].
+            and tailored capital to achieve their financial goals.
           </p>
         </motion.div>
 

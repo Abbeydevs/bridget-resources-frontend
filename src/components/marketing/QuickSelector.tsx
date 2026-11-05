@@ -79,7 +79,7 @@ export function QuickSelector() {
               <p className="text-slate-400 font-medium mb-10 leading-relaxed grow relative z-10">
                 Join the Daily or Monthly Contribution Plan. Save toward your
                 goals and automatically unlock low-interest loans after 6 months
-                of active contribution[cite: 6].
+                of active contribution.
               </p>
 
               <div className="flex items-center text-[#28868c] font-bold text-sm relative z-10">
@@ -110,7 +110,7 @@ export function QuickSelector() {
               <p className="text-slate-400 font-medium mb-10 leading-relaxed grow relative z-10">
                 Access tailored corporate capital including LPO funding, SME
                 working capital, asset finance, project finance, and
-                professional debt recovery[cite: 6].
+                professional debt recovery.
               </p>
 
               <div className="flex items-center text-[#dcae4e] font-bold text-sm relative z-10">
