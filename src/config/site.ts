@@ -4,7 +4,7 @@ export const siteConfig = {
   contact: {
     address: "6 Chilloville St, Royal View Estate, Ikota, Lekki, Lagos",
     email: "hello@bridgetresources.com",
-    phone: "+234 (0) 800 000 0000",
+    phone: "+234 (0) 909 133 3198",
   },
   socials: {
     instagram: "https://instagram.com/bridgetresources",

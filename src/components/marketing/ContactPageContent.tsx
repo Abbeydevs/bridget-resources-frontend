@@ -111,7 +111,7 @@ export function ContactPageContent() {
                     rel="noopener noreferrer"
                     className="hover:text-[#28868c] transition-colors"
                   >
-                    08165918211 (WhatsApp)
+                    09091333198
                   </a>
                 </li>
                 <li className="flex items-center gap-3 text-slate-600 font-medium">
